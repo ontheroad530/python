@@ -8,3 +8,6 @@
 
 项目：dice_visual
 《Python编程：从入门到实践》中的 “”掷骰子” 项目
+
+项目：temperatures
+《Python编程：从入门到实践》中的 “”最高最低温度图” 项目
